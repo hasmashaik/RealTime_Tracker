@@ -1,2 +1,3 @@
 #npm install
-#npm app.js
+#run
+node app.js
